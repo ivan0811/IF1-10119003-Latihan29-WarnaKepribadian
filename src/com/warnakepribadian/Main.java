@@ -130,7 +130,8 @@ public class Main {
 
     public static void main(String[] args) {
 	    Main data = new Main();
-        data.masukkanWarna();
-        data.tampilTest();
+            data.masukkanWarna();
+            data.tampilTest();
+	    System.out.println("Developed by : Ivan Faathirza");
     }
 }
